@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "road_name": "NH 766",
+        "type": "Highway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [76.55, 11.72],
+          [76.73, 11.88],
+          [76.90, 12.02]
+        ]
+      }
+    }
+  ]
+}
