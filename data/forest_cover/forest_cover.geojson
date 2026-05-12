@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "forest_density": "Dense",
+        "ndvi_score": 0.82
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [76.40, 11.65],
+            [76.65, 11.65],
+            [76.65, 11.95],
+            [76.40, 11.95],
+            [76.40, 11.65]
+          ]
+        ]
+      }
+    }
+  ]
+}
