@@ -72,3 +72,52 @@ The platform helps identify:
     wildlife crossings
     ecological buffer zones
     mitigation strategies
+
+# tech stack
+1.Frontend
+  Next.js
+  React
+  Leaflet / Mapbox
+2.Backend
+  Python
+  FastAPI
+3.Geospatial & AI
+  Google Earth Engine
+  GeoPandas
+  Rasterio
+  TensorFlow
+  Scikit-learn
+4.Database
+  PostgreSQL + PostGIS
+5.Infrastructure
+  Docker
+  AWS / GCP
+
+# data sources 
+Google Earth Engine
+OpenStreetMap
+Global Forest Watch
+GBIF Biodiversity Database
+India Biodiversity Portal
+Sentinel-2 Satellite Imagery
+
+# real world impact 
+COEXIST aims to:
+  reduce habitat fragmentation
+  improve sustainable urban planning
+  reduce human-animal conflict
+  support biodiversity preservation
+  provide AI-assisted ecological intelligence for infrastructure planning
+
+# future scope
+  Real-time satellite monitoring
+  Drone integration
+  Live ecological alerts
+  Smart city API integrations
+  Advanced wildlife movement prediction
+  Government ecological planning systems
+
+# project vision 
+  COEXIST aims to become a global ecological intelligence layer for sustainable urban development, enabling infrastructure and ecosystems to coexist through AI-     powered environmental planning.
+
+  
