@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "railway_name": "Mysore-Bandipur Rail Section",
+        "risk_level": "Medium"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [76.48, 11.60],
+          [76.62, 11.76],
+          [76.80, 11.95]
+        ]
+      }
+    }
+  ]
+}
