@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "species": "Elephas maximus",
+        "risk_level": "High",
+        "observation_date": "2026-05-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.6394, 11.6586]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "species": "Elephas maximus",
+        "risk_level": "Medium",
+        "observation_date": "2026-05-09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.7341, 11.9234]
+      }
+    }
+  ]
+}

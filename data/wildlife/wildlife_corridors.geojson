@@ -1,0 +1,20 @@
+{es": {
+        "corrido
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "propertir_name": "Bandipur Elephant Corridor",
+        "risk": "Critical"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [76.50, 11.70],
+          [76.65, 11.80],
+          [76.82, 11.92]
+        ]
+      }
+    }
+  ]
+}
