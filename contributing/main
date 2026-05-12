@@ -1,0 +1,72 @@
+# Contributing Guidelines
+
+Thank you for contributing to COEXIST.
+
+## Workflow
+
+1. Fork or clone the repository
+2. Create a new branch for your feature
+3. Make your changes
+4. Commit with clear messages
+5. Push your branch
+6. Create a Pull Request
+
+## Branch Naming
+
+- frontend-feature-name
+- backend-feature-name
+- ai-feature-name
+- docs-update
+
+Example:
+feature/habitat-heatmap
+
+## Commit Message Format
+
+Examples:
+- Added habitat risk heatmap
+- Fixed backend API route
+- Improved UI responsiveness
+- Updated documentation
+
+## Code Guidelines
+
+- Keep code clean and modular
+- Comment complex logic
+- Use meaningful variable names
+- Avoid unnecessary files
+
+## Team Responsibilities
+
+### Frontend Team
+- UI/UX
+- Dashboard
+- Visualization
+- Maps and charts
+
+### Backend Team
+- APIs
+- Database integration
+- Server logic
+
+### AI/Data Team
+- Model training
+- Data preprocessing
+- Habitat prediction system
+
+### Documentation Team
+- README
+- Architecture docs
+- Presentation assets
+
+## Pull Request Rules
+
+Before submitting:
+- Ensure code runs properly
+- Test major features
+- Avoid merge conflicts
+- Update documentation if needed
+
+## Project Goal
+
+Build technology that enables sustainable urban growth while protecting wildlife habitats.
