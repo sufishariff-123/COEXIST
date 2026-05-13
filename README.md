@@ -1,3 +1,4 @@
+# edit: this project won the HKBK hackathon at a national level held on 11/05/25 - 12/05/26 and came in 5th place out of 150 teams
 # COEXIST
 COEXIST is an AI-powered ecological urban planning system that helps cities grow sustainably while protecting wildlife habitats. Using satellite data, geospatial analysis, and machine learning, it detects habitat encroachment, predicts ecological risks, and supports smarter, biodiversity-friendly urban development.
 # problem statement 
